@@ -21,7 +21,7 @@ Served as a Data Scientist Fellow for Mercury Data Science in 2023, contributing
 
 **Professional Experience:**
 Accumulated over 10 years of multifaceted experience in health and human services.
-Lead global, cross functional teams in various roles encompassing revenue cycle operations, project management, product management, business analysis, and general consulting.
+Lead global, cross functional teams in various roles encompassing revenue cycle operations, project management, implementation and change management, statewide systems training, product management, business analysis, and general consulting.
 Demonstrated adaptability and expertise in navigating diverse facets of the health and human services industry, from operational efficiency to strategic planning.
 These achievements underscore a dynamic career trajectory marked by a commitment to excellence and a passion for leveraging data to drive impactful outcomes in both healthcare and business domains.
 
