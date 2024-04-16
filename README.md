@@ -1,8 +1,12 @@
-# Data Science Portfolio - Arch Desai
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+# Data Science Portfolio - Sheena Rogers
+Welcome to my Data Science Portfolio! Here, you'll find a curated collection of my endeavors spanning Business Consulting, Data Science, and Data Analysis. From academic ventures to self-learning pursuits and even passion projects, this portfolio encapsulates the breadth and depth of my experiences in the realm of data-driven decision-making.
 
-- **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
-- **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/archd3sai/)
+Beyond showcasing my projects, this portfolio serves as a testament to my achievements, skills, and certifications. Whether it's tackling complex datasets, deriving insights to drive business strategies, or employing cutting-edge algorithms, each entry reflects my dedication to mastering the intricacies of data science.
+
+Updated regularly to reflect my latest endeavors, this portfolio invites you to explore the intersection of data and innovation through my lens. Join me on this journey as we delve into the captivating world of data science together.
+
+- **Email**: [sheena.rogers.r@gmail.com](sheena.rogers.r@gmail.com)
+- **LinkedIn**: [linkedin.com/sheena-rogers](https://www.linkedin.com/in/sheena-rogers/)
 
 ## Achievements
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
