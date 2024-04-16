@@ -9,10 +9,21 @@ Updated regularly to reflect my latest endeavors, this portfolio invites you to 
 - **LinkedIn**: [linkedin.com/sheena-rogers](https://www.linkedin.com/in/sheena-rogers/)
 
 ## Achievements
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
+**Doctoral Candidate in Health Informatics:** Currently pursuing a Doctorate in Health Informatics, specializing in the development of an interoperability framework across legacy health record systems. This translational project aims to streamline data exchange processes, with a publication underway. Expected graduation in August 2024.
+
+**Master's in Business Administration (MBA):**
+Successfully obtained an MBA from American University, with a concentration in data analytics.
+Completed a transformative capstone immersion in global trade negotiation, conducted in Beijing and Chengdu, China. This experience honed skills in cross-cultural communication and strategic decision-making.
+
+**Fellowships:**
+Selected as a fellow for UTHealth Leads in 2022, demonstrating leadership potential as an expert in the healthcare domain.
+Served as a Data Scientist Fellow for Mercury Data Science in 2023, contributing expertise to innovative data-driven projects.
+
+**Professional Experience:**
+Accumulated over 10 years of multifaceted experience in health and human services.
+Lead global, cross functional teams in various roles encompassing revenue cycle operations, project management, product management, business analysis, and general consulting.
+Demonstrated adaptability and expertise in navigating diverse facets of the health and human services industry, from operational efficiency to strategic planning.
+These achievements underscore a dynamic career trajectory marked by a commitment to excellence and a passion for leveraging data to drive impactful outcomes in both healthcare and business domains.
 
 ## Projects
 
